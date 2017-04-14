@@ -1,2 +1,2 @@
-github "schwa/SwiftIO" "develop"
-github "schwa/SwiftUtilities" "master"
+github "schwa/SwiftIO" "0.3"
+github "schwa/SwiftUtilities" "0.3"
